@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steamcord.Integrations.Tebex", "Steamcord.Integrations.Tebex\Steamcord.Integrations.Tebex.csproj", "{18DCCA35-B845-4B03-9CA6-9C86E2B04DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DCCA35-B845-4B03-9CA6-9C86E2B04DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DCCA35-B845-4B03-9CA6-9C86E2B04DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DCCA35-B845-4B03-9CA6-9C86E2B04DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DCCA35-B845-4B03-9CA6-9C86E2B04DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
